@@ -1,3 +1,10 @@
+# Crypto list
+This is a simple project shows a list of coins and you can filter and serch by coins name developed with **React, Redux, Redux Saga** and **Axios**.
+
+* **api address doesn't work with iran ip addresses!**
+
+****
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
